@@ -1,8 +1,8 @@
 [
-  { "title": "Episode 28", "videoUrl": "https://www.youtube.com/watch?v=XBH3qcas8gI" },
-  { "title": "Episode 29", "videoUrl": "https://www.youtube.com/watch?v=vD3NDhySvcc" },
-  { "title": "Episode 30", "videoUrl": "https://www.youtube.com/watch?v=G0PQqpdpPYQ" },
-  { "title": "Episode 31", "videoUrl": "https://www.youtube.com/watch?v=A4kZB43tits" },
-  { "title": "Episode 32", "videoUrl": "https://www.youtube.com/watch?v=4jOIk9Na5j4" }
+  {  "videoUrl": "https://www.youtube.com/watch?v=XBH3qcas8gI" },
+  {  "videoUrl": "https://www.youtube.com/watch?v=vD3NDhySvcc" },
+  {  "videoUrl": "https://www.youtube.com/watch?v=G0PQqpdpPYQ" },
+  {  "videoUrl": "https://www.youtube.com/watch?v=A4kZB43tits" },
+  { "videoUrl": "https://www.youtube.com/watch?v=4jOIk9Na5j4" }
   // Add up to Episode 61 or more
 ]
