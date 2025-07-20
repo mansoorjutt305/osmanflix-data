@@ -1,29 +1,11 @@
 [
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=fa89NxhAKis"
-  },
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=EXdtyUnUpGY"
-  },
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=U5sJ59S6mNs"
-  },
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=l0GN8_iwDwE"
-  },
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=WPwoF-RnqHU"
-  },
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=sdVnFA9Qb4A"
-  }
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=7sT7hg_s5Vs"
-  }
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=jpp92OUeoPk"
-  }
-  {
-    "videoUrl": "https://www.youtube.com/watch?v=nnbmRYRoY_M"
-  }
+  { "videoUrl": "https://www.youtube.com/watch?v=fa89NxhAKis" },
+  { "videoUrl": "https://www.youtube.com/watch?v=EXdtyUnUpGY" },
+  { "videoUrl": "https://www.youtube.com/watch?v=U5sJ59S6mNs" },
+  { "videoUrl": "https://www.youtube.com/watch?v=l0GN8_iwDwE" },
+  { "videoUrl": "https://www.youtube.com/watch?v=WPwoF-RnqHU" },
+  { "videoUrl": "https://www.youtube.com/watch?v=sdVnFA9Qb4A" },
+  { "videoUrl": "https://www.youtube.com/watch?v=7sT7hg_s5Vs" },
+  { "videoUrl": "https://www.youtube.com/watch?v=jpp92OUeoPk" },
+  { "videoUrl": "https://www.youtube.com/watch?v=nnbmRYRoY_M" }
 ]
