@@ -1,8 +1,7 @@
 [
-  {  "videoUrl": "https://www.youtube.com/watch?v=XBH3qcas8gI" },
-  {  "videoUrl": "https://www.youtube.com/watch?v=vD3NDhySvcc" },
-  {  "videoUrl": "https://www.youtube.com/watch?v=G0PQqpdpPYQ" },
-  {  "videoUrl": "https://www.youtube.com/watch?v=A4kZB43tits" },
+  { "videoUrl": "https://www.youtube.com/watch?v=XBH3qcas8gI" },
+  { "videoUrl": "https://www.youtube.com/watch?v=vD3NDhySvcc" },
+  { "videoUrl": "https://www.youtube.com/watch?v=G0PQqpdpPYQ" },
+  { "videoUrl": "https://www.youtube.com/watch?v=A4kZB43tits" },
   { "videoUrl": "https://www.youtube.com/watch?v=4jOIk9Na5j4" }
-  // Add up to Episode 61 or more
 ]
