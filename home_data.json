@@ -5,13 +5,18 @@
       "items": [
         {
           "title": "Kuruluş Osman Episode 1",
-          "imageUrl": "https://i.imgur.com/abcd123.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?w=800",
           "videoUrl": "https://example.com/video1.mp4"
         },
         {
           "title": "Ertugrul Ghazi Episode 2",
-          "imageUrl": "https://i.imgur.com/efgh456.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?w=800",
           "videoUrl": "https://example.com/video2.mp4"
+        },
+        {
+          "title": "Salahuddin Ayyubi Episode 1",
+          "imageUrl": "https://images.unsplash.com/photo-1520697222862-4b66c7d0a6b3?w=800",
+          "videoUrl": "https://example.com/video3.mp4"
         }
       ]
     },
@@ -20,8 +25,18 @@
       "items": [
         {
           "title": "Salahuddin Ayyubi",
-          "imageUrl": "https://i.imgur.com/xyz987.jpg",
-          "videoUrl": "https://example.com/video3.mp4"
+          "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+          "videoUrl": "https://example.com/video4.mp4"
+        },
+        {
+          "title": "Ertugrul Ghazi",
+          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "videoUrl": "https://example.com/video5.mp4"
+        },
+        {
+          "title": "Kuruluş Osman",
+          "imageUrl": "https://images.unsplash.com/photo-1534367610401-9f5ed68180aa?w=800",
+          "videoUrl": "https://example.com/video6.mp4"
         }
       ]
     },
@@ -30,13 +45,18 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://i.imgur.com/hijk321.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c8a?w=800",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://i.imgur.com/lmn765.jpg",
+          "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
+        },
+        {
+          "title": "Season 3",
+          "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?w=800",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s3.json"
         }
       ]
     }
