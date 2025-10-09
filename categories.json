@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "title": "Kurulus Urdu/English Dubbed",
+      "items": [
+        {
+          "name": "Kurulus Osman Season 6 | Urdu Dubbed",
+          "image": "https://raw.githubusercontent.com/yourusername/osmanflix-data/main/images/kos6.jpg",
+          "videoUrl": "https://example.com/videos/kos6ep1.mp4"
+        },
+        {
+          "name": "Kurulus Osman Season 5 | Urdu Dubbed",
+          "image": "https://raw.githubusercontent.com/yourusername/osmanflix-data/main/images/kos5.jpg",
+          "videoUrl": "https://example.com/videos/kos5ep1.mp4"
+        }
+      ]
+    },
+    {
+      "title": "Ertugrul Urdu Dubbed",
+      "items": [
+        {
+          "name": "Ertugrul Season 1 | Urdu Dubbed",
+          "image": "https://raw.githubusercontent.com/yourusername/osmanflix-data/main/images/ert1.jpg",
+          "videoUrl": "https://example.com/videos/ert1ep1.mp4"
+        }
+      ]
+    }
+  ]
+}
