@@ -1,0 +1,14 @@
+{
+  "featured": [
+    {
+      "title": "Kurulus Osman Season 6 - Episode 58",
+      "image": "https://raw.githubusercontent.com/yourusername/osmanflix-data/main/images/featured1.jpg",
+      "videoUrl": "https://example.com/videos/kos6ep58.mp4"
+    },
+    {
+      "title": "Salahuddin Ayyubi Episode 10",
+      "image": "https://raw.githubusercontent.com/yourusername/osmanflix-data/main/images/featured2.jpg",
+      "videoUrl": "https://example.com/videos/ayyubi10.mp4"
+    }
+  ]
+}
