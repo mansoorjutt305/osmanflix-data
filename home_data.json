@@ -1,12 +1,31 @@
-[
-  {
-    "title": "Kuruluş Osman Season 1",
-    "imageUrl": "https://i.imgur.com/3P8QY6A.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
-  },
-  {
-    "title": "Kuruluş Osman Season 2",
-    "imageUrl": "https://i.imgur.com/GQAOgbl.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
-  }
-]
+{
+  "featured": [
+    {
+      "title": "Kuruluş Osman Episode 160",
+      "imageUrl": "https://i.imgur.com/mz9f123.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=abcd123"
+    },
+    {
+      "title": "Kuruluş Osman Episode 159",
+      "imageUrl": "https://i.imgur.com/xyz987.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=efgh456"
+    },
+    {
+      "title": "Kuruluş Osman Episode 158",
+      "imageUrl": "https://i.imgur.com/qwe456.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ijkl789"
+    }
+  ],
+  "shows": [
+    {
+      "title": "Kuruluş Osman Season 1",
+      "imageUrl": "https://i.imgur.com/abcd123.jpg",
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
+    },
+    {
+      "title": "Kuruluş Osman Season 2",
+      "imageUrl": "https://i.imgur.com/efgh456.jpg",
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
+    }
+  ]
+}
