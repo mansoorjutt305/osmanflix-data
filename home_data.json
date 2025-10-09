@@ -1,31 +1,44 @@
 {
-  "featured": [
+  "sections": [
     {
-      "title": "Kuruluş Osman Episode 160",
-      "imageUrl": "https://i.imgur.com/mz9f123.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=abcd123"
+      "title": "Latest Episodes",
+      "items": [
+        {
+          "title": "Kuruluş Osman Episode 1",
+          "imageUrl": "https://i.imgur.com/abcd123.jpg",
+          "videoUrl": "https://example.com/video1.mp4"
+        },
+        {
+          "title": "Ertugrul Ghazi Episode 2",
+          "imageUrl": "https://i.imgur.com/efgh456.jpg",
+          "videoUrl": "https://example.com/video2.mp4"
+        }
+      ]
     },
     {
-      "title": "Kuruluş Osman Episode 159",
-      "imageUrl": "https://i.imgur.com/xyz987.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=efgh456"
+      "title": "Latest Dramas",
+      "items": [
+        {
+          "title": "Salahuddin Ayyubi",
+          "imageUrl": "https://i.imgur.com/xyz987.jpg",
+          "videoUrl": "https://example.com/video3.mp4"
+        }
+      ]
     },
     {
-      "title": "Kuruluş Osman Episode 158",
-      "imageUrl": "https://i.imgur.com/qwe456.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ijkl789"
-    }
-  ],
-  "shows": [
-    {
-      "title": "Kuruluş Osman Season 1",
-      "imageUrl": "https://i.imgur.com/abcd123.jpg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
-    },
-    {
-      "title": "Kuruluş Osman Season 2",
-      "imageUrl": "https://i.imgur.com/efgh456.jpg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
+      "title": "Kuruluş Osman Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://i.imgur.com/hijk321.jpg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
+        },
+        {
+          "title": "Season 2",
+          "imageUrl": "https://i.imgur.com/lmn765.jpg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
+        }
+      ]
     }
   ]
 }
