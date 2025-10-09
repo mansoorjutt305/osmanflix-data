@@ -5,12 +5,12 @@
       "items": [
         {
           "title": "Kuruluş Osman Episode 1",
-          "imageUrl": "https://github.com/mansoorjutt305/images-/blob/main/ahshahshhen.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/ahshahshhen.jpeg",
           "videoUrl": "https://example.com/video1.mp4"
         },
         {
           "title": "Ertugrul Ghazi Episode 2",
-          "imageUrl": "https://github.com/mansoorjutt305/images-/blob/main/osman.jpg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/osman.jpg",
           "videoUrl": "https://example.com/video2.mp4"
         },
         {
@@ -18,9 +18,9 @@
           "imageUrl": "https://images.unsplash.com/photo-1520697222862-4b66c7d0a6b3?w=800",
           "videoUrl": "https://example.com/video3.mp4"
         },
-         {
+        {
           "title": "Kuruluş Osman Episode 1",
-          "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "videoUrl": "https://example.com/video1.mp4"
         },
         {
@@ -60,7 +60,7 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://github.com/mansoorjutt305/images-/blob/main/kseason1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
         },
         {
