@@ -1,17 +1,12 @@
 [
   {
-    "title": "Kurulus Osman Season 1",
-    "imageUrl": "https://yourimageurl1.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/osman_season1.json"
+    "title": "Kuruluş Osman Season 1",
+    "imageUrl": "https://i.imgur.com/abcd123.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
   },
   {
-    "title": "Kurulus Osman Season 2",
-    "imageUrl": "https://yourimageurl2.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/osman_season2.json"
-  },
-  {
-    "title": "Salahuddin Ayyubi",
-    "imageUrl": "https://yourimageurl3.jpg",
-    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ayyubi.json"
+    "title": "Kuruluş Osman Season 2",
+    "imageUrl": "https://i.imgur.com/efgh456.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
   }
 ]
