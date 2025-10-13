@@ -65,12 +65,12 @@
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
         },
         {
           "title": "Season 3",
-          "imageUrl": "https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s3.json"
         }
       ]
@@ -80,27 +80,27 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://images.unsplash.com/photo-1594737625785-d1d0a2a73b7a?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s1.json"
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://images.unsplash.com/photo-1594737654842-9f2f9f8335e3?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s2.json"
         },
         {
           "title": "Season 3",
-          "imageUrl": "https://images.unsplash.com/photo-1594737625785-d1d0a2a73b7b?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s3.json"
         },
         {
           "title": "Season 4",
-          "imageUrl": "https://images.unsplash.com/photo-1594737654842-9f2f9f8335e4?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s4.json"
         },
         {
           "title": "Season 5",
-          "imageUrl": "https://images.unsplash.com/photo-1594737625785-d1d0a2a73b7c?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s5.json"
         }
       ]
