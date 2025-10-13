@@ -17,21 +17,6 @@
           "title": "Salahuddin Ayyubi Episode 1",
           "imageUrl": "https://images.unsplash.com/photo-1520697222862-4b66c7d0a6b3?w=800",
           "videoUrl": "https://example.com/video3.mp4"
-        },
-        {
-          "title": "Kuruluş Osman Episode 1",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
-          "videoUrl": "https://example.com/video1.mp4"
-        },
-        {
-          "title": "Ertugrul Ghazi Episode 2",
-          "imageUrl": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?w=800",
-          "videoUrl": "https://example.com/video2.mp4"
-        },
-        {
-          "title": "Salahuddin Ayyubi Episode 1",
-          "imageUrl": "https://images.unsplash.com/photo-1520697222862-4b66c7d0a6b3?w=800",
-          "videoUrl": "https://example.com/video3.mp4"
         }
       ]
     },
@@ -61,16 +46,19 @@
         {
           "title": "Season 1",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s1.json"
+          "showSlug": "kurulus_osman",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s1.json"
         },
         {
           "title": "Season 2",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "kurulus_osman",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
         },
         {
           "title": "Season 3",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "kurulus_osman",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s3.json"
         }
       ]
@@ -81,26 +69,31 @@
         {
           "title": "Season 1",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/esea1.jpeg",
+          "showSlug": "ertugrul",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s1.json"
         },
         {
           "title": "Season 2",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "ertugrul",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s2.json"
         },
         {
           "title": "Season 3",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "ertugrul",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s3.json"
         },
         {
           "title": "Season 4",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "ertugrul",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s4.json"
         },
         {
           "title": "Season 5",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "showSlug": "ertugrul",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s5.json"
         }
       ]
