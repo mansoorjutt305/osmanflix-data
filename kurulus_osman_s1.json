@@ -1,12 +1,14 @@
-[
-  {
-    "title": "Episode 1",
-    "videoUrl": "https://www.youtube.com/watch?v=yzC6IWPLg78&t=237",
-    "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg"
-  },
-  {
-    "title": "Episode 2",
-    "videoUrl": "https://www.youtube.com/watch?v=nDYdSxwi6B8&t=16",
-    "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg"
-  }
-]
+{
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "videoUrl": "https://www.youtube.com/watch?v=yzC6IWPLg78&t=237",
+      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg"
+    },
+    {
+      "title": "Episode 2",
+      "videoUrl": "https://www.youtube.com/watch?v=nDYdSxwi6B8&t=16",
+      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg"
+    }
+  ]
+}
