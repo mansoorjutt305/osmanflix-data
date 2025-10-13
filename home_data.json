@@ -34,6 +34,11 @@
           "videoUrl": "https://www.youtube.com/watch?v=EXdtyUnUpGY"
         },
         {
+          "title": "Alp Arslan",
+          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "videoUrl": "https://www.youtube.com/watch?v=alp1"
+        },
+        {
           "title": "Salahuddin Ayyubi",
           "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
           "videoUrl": "https://www.youtube.com/watch?v=abcd1234"
@@ -52,6 +57,26 @@
           "title": "Season 2",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s2.json"
+        },
+        {
+          "title": "Season 3",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s3.json"
+        },
+        {
+          "title": "Season 4",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s4.json"
+        },
+        {
+          "title": "Season 5",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s5.json"
+        },
+        {
+          "title": "Season 6",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/kurulus_osman_s6.json"
         }
       ]
     },
@@ -67,6 +92,51 @@
           "title": "Season 2",
           "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s2.json"
+        },
+        {
+          "title": "Season 3",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s3.json"
+        },
+        {
+          "title": "Season 4",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s4.json"
+        },
+        {
+          "title": "Season 5",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s5.json"
+        }
+      ]
+    },
+    {
+      "title": "Alp Arslan Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s1.json"
+        },
+        {
+          "title": "Season 2",
+          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s2.json"
+        }
+      ]
+    },
+    {
+      "title": "Salahuddin Ayyubi Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/salahuddin_s1.json"
+        },
+        {
+          "title": "Season 2",
+          "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/salahuddin_s2.json"
         }
       ]
     }
