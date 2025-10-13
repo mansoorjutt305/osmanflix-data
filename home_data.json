@@ -116,7 +116,7 @@
         {
           "title": "Season 1",
           "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s1.json"
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s.json"
         },
         {
           "title": "Season 2",
@@ -131,12 +131,12 @@
         {
           "title": "Season 1",
           "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/salahuddin_s1.json"
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
         },
         {
           "title": "Season 2",
           "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/salahuddin_s2.json"
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
         }
       ]
     }
