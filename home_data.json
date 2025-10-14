@@ -90,22 +90,22 @@
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/esea2.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s2.json"
         },
         {
           "title": "Season 3",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/esea3.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s3.json"
         },
         {
           "title": "Season 4",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/esea4.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s4.json"
         },
         {
           "title": "Season 5",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/kseason1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/esea5.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/ertugrul_s5.json"
         }
       ]
@@ -115,12 +115,12 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/alp1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s.json"
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://images.unsplash.com/photo-1600103569823-3b9d595b6b97?w=800",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/alp2.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/alp_arslan_s2.json"
         }
       ]
@@ -130,12 +130,12 @@
   "items": [
     {
       "title": "Season 1",
-      "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal1.jpeg",
       "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
     },
     {
       "title": "Season 2",
-      "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal2.jpeg",
       "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
     }
   ]
