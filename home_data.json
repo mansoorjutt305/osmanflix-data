@@ -126,19 +126,20 @@
       ]
     },
     {
-      "title": "Salahuddin Ayyubi Seasons",
-      "items": [
-        {
-          "title": "Season 1",
-          "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
-        },
-        {
-          "title": "Season 2",
-          "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
-          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
-        }
-      ]
+  "title": "Salahuddin Ayyubi Seasons",
+  "items": [
+    {
+      "title": "Season 1",
+      "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
+    },
+    {
+      "title": "Season 2",
+      "imageUrl": "https://images.unsplash.com/photo-1590608897129-79da98d159ab?w=800",
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
     }
+  ]
+}
+
   ]
 }
