@@ -1,43 +1,74 @@
+{
+  "episodes": [
+     { "videoUrl": "https://www.youtube.com/watch?v=BrxIU3zQlVI", "title": "Episode 1","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=bnUCpb4EfC4", "title": "Episode 2" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=CBwnmxZ8pMU", "title": "Episode 3" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=hf1W4Eow8PI", "title": "Episode 4" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=kDju2FGBKoY", "title": "Episode 5" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=b-HucTc9uoI", "title": "Episode 6" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=C4YQiB4h2Mc", "title": "Episode 7" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=itq9iW3A3w4", "title": "Episode 8" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=9xXkddp4DPs", "title": "Episode 9" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=EzqiiFfO4BI", "title": "Episode 10","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=PP5NzwZGlfo", "title": "Episode 11" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=pHMStfzMPhc", "title": "Episode 12","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=azDCxxDdBPk", "title": "Episode 13","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=-Nfwd9D2ar8", "title": "Episode 14" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=pk5o2Wxl5oE", "title": "Episode 15","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=L-au7jYCjhI", "title": "Episode 16" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=h52Hckum3u4", "title": "Episode 17" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=9nbBozfzOIE", "title": "Episode 18" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=nkpuSbccY_I", "title": "Episode 19" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=o4_DKTQIyH8", "title": "Episode 20","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=_6SZUXEogTk", "title": "Episode 21" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=kxt_IZyOJac", "title": "Episode 22" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=DSBfyozehIA", "title": "Episode 23" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=qPtgEbFwSLk", "title": "Episode 24" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=wErmW6temFM", "title": "Episode 25" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=xYTpZVA1puw", "title": "Episode 26" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=xYTpZVA1puw", "title": "Episode 27" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=XrKvAwG8Z-g", "title": "Episode 28" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=5XaB6Fqc5Tg", "title": "Episode 29" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=MhvaTevIfUY", "title": "Episode 30" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=R6HkXUXEixc", "title": "Episode 31","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=tiY_r0Jv4yw", "title": "Episode 32" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=AL53X8dFe_w", "title": "Episode 33" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=iD-FIddWaCI", "title": "Episode 34","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=hodMIMa2tnc", "title": "Episode 35" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=83X9xVQU1WM", "title": "Episode 36" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=uvUU-0YfPhk", "title": "Episode 37" ,"imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg"},
+  { "videoUrl": "https://www.youtube.com/watch?v=RdrmgoFU9Uo", "title": "Episode 38","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=2ki2HjqmBx0", "title": "Episode 39","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" },
+  { "videoUrl": "https://www.youtube.com/watch?v=np7Zc0PhIxY", "title": "Episode 40","imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/=sea3.jpeg" }
+   
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [
-  { "videoUrl": "https://www.youtube.com/watch?v=BrxIU3zQlVI", "title": "Episode 1" },
-  { "videoUrl": "https://www.youtube.com/watch?v=bnUCpb4EfC4", "title": "Episode 2" },
-  { "videoUrl": "https://www.youtube.com/watch?v=CBwnmxZ8pMU", "title": "Episode 3" },
-  { "videoUrl": "https://www.youtube.com/watch?v=hf1W4Eow8PI", "title": "Episode 4" },
-  { "videoUrl": "https://www.youtube.com/watch?v=kDju2FGBKoY", "title": "Episode 5" },
-  { "videoUrl": "https://www.youtube.com/watch?v=b-HucTc9uoI", "title": "Episode 6" },
-  { "videoUrl": "https://www.youtube.com/watch?v=C4YQiB4h2Mc", "title": "Episode 7" },
-  { "videoUrl": "https://www.youtube.com/watch?v=itq9iW3A3w4", "title": "Episode 8" },
-  { "videoUrl": "https://www.youtube.com/watch?v=9xXkddp4DPs", "title": "Episode 9" },
-  { "videoUrl": "https://www.youtube.com/watch?v=EzqiiFfO4BI", "title": "Episode 10" },
-  { "videoUrl": "https://www.youtube.com/watch?v=PP5NzwZGlfo", "title": "Episode 11" },
-  { "videoUrl": "https://www.youtube.com/watch?v=pHMStfzMPhc", "title": "Episode 12" },
-  { "videoUrl": "https://www.youtube.com/watch?v=azDCxxDdBPk", "title": "Episode 13" },
-  { "videoUrl": "https://www.youtube.com/watch?v=-Nfwd9D2ar8", "title": "Episode 14" },
-  { "videoUrl": "https://www.youtube.com/watch?v=pk5o2Wxl5oE", "title": "Episode 15" },
-  { "videoUrl": "https://www.youtube.com/watch?v=L-au7jYCjhI", "title": "Episode 16" },
-  { "videoUrl": "https://www.youtube.com/watch?v=h52Hckum3u4", "title": "Episode 17" },
-  { "videoUrl": "https://www.youtube.com/watch?v=9nbBozfzOIE", "title": "Episode 18" },
-  { "videoUrl": "https://www.youtube.com/watch?v=nkpuSbccY_I", "title": "Episode 19" },
-  { "videoUrl": "https://www.youtube.com/watch?v=o4_DKTQIyH8", "title": "Episode 20" },
-  { "videoUrl": "https://www.youtube.com/watch?v=_6SZUXEogTk", "title": "Episode 21" },
-  { "videoUrl": "https://www.youtube.com/watch?v=kxt_IZyOJac", "title": "Episode 22" },
-  { "videoUrl": "https://www.youtube.com/watch?v=DSBfyozehIA", "title": "Episode 23" },
-  { "videoUrl": "https://www.youtube.com/watch?v=qPtgEbFwSLk", "title": "Episode 24" },
-  { "videoUrl": "https://www.youtube.com/watch?v=wErmW6temFM", "title": "Episode 25" },
-  { "videoUrl": "https://www.youtube.com/watch?v=xYTpZVA1puw", "title": "Episode 26" },
-  { "videoUrl": "https://www.youtube.com/watch?v=xYTpZVA1puw", "title": "Episode 27" },
-  { "videoUrl": "https://www.youtube.com/watch?v=XrKvAwG8Z-g", "title": "Episode 28" },
-  { "videoUrl": "https://www.youtube.com/watch?v=5XaB6Fqc5Tg", "title": "Episode 29" },
-  { "videoUrl": "https://www.youtube.com/watch?v=MhvaTevIfUY", "title": "Episode 30" },
-  { "videoUrl": "https://www.youtube.com/watch?v=R6HkXUXEixc", "title": "Episode 31" },
-  { "videoUrl": "https://www.youtube.com/watch?v=tiY_r0Jv4yw", "title": "Episode 32" },
-  { "videoUrl": "https://www.youtube.com/watch?v=AL53X8dFe_w", "title": "Episode 33" },
-  { "videoUrl": "https://www.youtube.com/watch?v=iD-FIddWaCI", "title": "Episode 34" },
-  { "videoUrl": "https://www.youtube.com/watch?v=hodMIMa2tnc", "title": "Episode 35" },
-  { "videoUrl": "https://www.youtube.com/watch?v=83X9xVQU1WM", "title": "Episode 36" },
-  { "videoUrl": "https://www.youtube.com/watch?v=uvUU-0YfPhk", "title": "Episode 37" },
-  { "videoUrl": "https://www.youtube.com/watch?v=RdrmgoFU9Uo", "title": "Episode 38" },
-  { "videoUrl": "https://www.youtube.com/watch?v=2ki2HjqmBx0", "title": "Episode 39" },
-  { "videoUrl": "https://www.youtube.com/watch?v=np7Zc0PhIxY", "title": "Episode 40" }
+ 
 ]
