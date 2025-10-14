@@ -131,12 +131,14 @@
     {
       "title": "Season 1",
       "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal1.jpeg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/refs/heads/main/Sulahudins_s1.json"
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
+
     },
     {
       "title": "Season 2",
       "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal2.jpeg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/refs/heads/main/Sulahudins_s2.json"
+      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
+
     }
   ]
 }
