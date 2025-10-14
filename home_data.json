@@ -145,12 +145,12 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/yunus1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/ue1.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/yunus_emre_s1.json"
         },
         {
           "title": "Season 2",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/yunus2.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/ue2.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/yunus_emre_s2.json"
         }
       ]
@@ -160,7 +160,27 @@
       "items": [
         {
           "title": "Season 1",
-          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mehmed1.jpeg",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mfs1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s1.json"
+        },
+         {
+          "title": "Season 2",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mfs2.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s1.json"
+        },
+         {
+          "title": "Season 3",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mfs3.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s3.json"
+        },
+         {
+          "title": "Season 4",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mfs4.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s1.json"
+        },
+         {
+          "title": "Season 5",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mfs5.jpeg",
           "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s1.json"
         }
       ]
