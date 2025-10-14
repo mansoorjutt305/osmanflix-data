@@ -126,22 +126,44 @@
       ]
     },
     {
-  "title": "Salahuddin Ayyubi Seasons",
-  "items": [
-    {
-      "title": "Season 1",
-      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal1.jpeg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
-
+      "title": "Salahuddin Ayyubi Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s1.json"
+        },
+        {
+          "title": "Season 2",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal2.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
+        }
+      ]
     },
     {
-      "title": "Season 2",
-      "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/sal2.jpeg",
-      "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/Sulahudins_s2.json"
-
+      "title": "Yunus Emre | Rah e Ishq Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/yunus1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/yunus_emre_s1.json"
+        },
+        {
+          "title": "Season 2",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/yunus2.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/yunus_emre_s2.json"
+        }
+      ]
+    },
+    {
+      "title": "Mehmed Seasons",
+      "items": [
+        {
+          "title": "Season 1",
+          "imageUrl": "https://raw.githubusercontent.com/mansoorjutt305/images-/main/mehmed1.jpeg",
+          "jsonUrl": "https://raw.githubusercontent.com/mansoorjutt305/osmanflix-data/main/mehmed_s1.json"
+        }
+      ]
     }
-  ]
-}
-
   ]
 }
